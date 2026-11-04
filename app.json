@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Member_Mobile_App",
-    "slug": "Member_Mobile_App",
+    "name": "Members_Mobile_App",
+    "slug": "Members_Mobile_App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "membermobileapp",
+    "scheme": "membersmobileapp",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
